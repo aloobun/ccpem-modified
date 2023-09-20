@@ -2,7 +2,7 @@
 ---
 A modified dataset consisting of 12,000 records of English dialogs between a user and an assistant discussing movie preferences in natural language. In the foundational dataset, it initially had 502 records. To enhance the dataset's scope, I expanded it to include a total of 12,000 records.
 
-Dataset Information
+## Dataset Information
 
 - Name: ccpemv2.jsonl
 - Version: Version 0.1
@@ -11,7 +11,7 @@ Dataset Information
 - License: Creative Commons Attribution 4.0
 - Link to Adapted Dataset: [ccpemv2 Dataset](https://huggingface.co/datasets/aloobun/ccpemv2)
 
-Original Dataset Citation
+## Original Dataset Citation
 ```
 @inproceedings{radlinski-etal-2019-ccpe,
 title = {Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences},
