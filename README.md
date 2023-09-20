@@ -13,7 +13,7 @@ A modified dataset consisting of English dialogs between a user and an assistant
 
 ### Adapted Dataset Information
 
-- **Name:** ccpemv2
+- **Name:** ccpemv2.jsonl
 - **Version:** Version 0.1
-- **Modifications Included:** Transformed to: ### Human:... ### Assistant:... format
+- **Modifications Included:** Transformed to: ### User:... ### Assistant:... format
 - **Link to Adapted Dataset:** 
