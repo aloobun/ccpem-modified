@@ -1,6 +1,6 @@
 # ccpem-modified
 ---
-A modified dataset consisting of English dialogs between a user and an assistant discussing movie preferences in natural language. In the foundational dataset, it initially had 502 records. To enhance the dataset's scope, I expanded it to include a total of 12,000 records.
+A modified dataset consisting of English dialogs between a user and an assistant discussing movie preferences in natural language. In the foundational dataset, it initially had 502 records.
 
 ## Dataset Information
 
